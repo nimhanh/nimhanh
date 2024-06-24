@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hansana Nimhan</h1>
-<h1 align="center">Undergraduate student of Sri Lanka Institute of Information Technology  </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimhanh&label=Profile%20views&color=0e75b6&style=flat" alt="nimhanh" /> </p>
 
