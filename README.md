@@ -2,7 +2,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimhanh&label=Profile%20views&color=0e75b6&style=flat" alt="nimhanh" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Undegraduate student at Sri Lanka Institute of Information Technology (SLIIT)
+  
+- Im currently learning Infomation Technology
+
+-  How to reach me: [https://www.linkedin.com/in/hansana-nimhan-22906a263/].
+
+-  
+
+- 
+
+- 
 
 - 💬 Ask me about **Java**
 
